@@ -3,7 +3,8 @@ Code for a Skype Bot that responds with Elapsed/Remaining percentages of current
 
 ## Prerequisites
 
-* Bot Framework Emulator: https://docs.microsoft.com/en-us/bot-framework/debug-bots-emulator
+* [Sign up](https://products.wolframalpha.com/api/) for a Wolfram Alpha App ID, rename `constants-template.js` to `constants.js` and set `WOLFRAM_ALPHA_APP_ID`,
+* Download and install the [Bot Framework Emulator](https://docs.microsoft.com/en-us/bot-framework/debug-bots-emulator).
 
 ## Running
 
@@ -20,4 +21,4 @@ Code for a Skype Bot that responds with Elapsed/Remaining percentages of current
     ![](https://i.imgur.com/kUi4mHR.png)
     
 ---
-Next Up: Deploying the bot and interacting with it from Skype. [Stay tuned!]
+*Next Up: Deploying the bot and interacting with it from Skype. [Stay tuned!]*
