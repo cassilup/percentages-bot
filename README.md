@@ -17,6 +17,8 @@ Code for a Skype Bot that responds with Elapsed/Remaining percentages of current
 3. Add `http://localhost:3978/api/messages` to the Endpoint URL and click `Connect`:
     ![](https://i.imgur.com/nJWS795.png)
     
+    [Note: Credentials are not needed for local testing.]
+    
 4. Type a message, hit Enter and **VOILÀ**! 🙌
     ![](https://i.imgur.com/kUi4mHR.png)
     
